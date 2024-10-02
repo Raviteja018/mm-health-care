@@ -1,0 +1,29 @@
+.About-us{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 80px;
+}
+
+.About-us img{
+    border-radius: 80px;
+}
+
+.About-us .description{
+    text-align: left;
+    padding: 50px 5px;
+    max-width: 500px;
+}
+
+.description .p1{
+    color: #0086ff;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.description h1{
+    color: #254969;
+}
+
+.description .p2{
+    color: #a0a0a0;
+}

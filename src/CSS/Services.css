@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.child-container{
+    padding: 30px;
+    background-color: #f6f9fe;
+    border-radius: 10%;
+}
+
+.child-container img{
+    border-radius: 10%;
+}
+
+.Services h1{
+    text-align: center;
+    padding: 30px 10px;
+}
+
+.Services{
+    padding: 30px 10px;
+}
+
+.service-name{
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
